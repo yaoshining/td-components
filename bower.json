@@ -1,0 +1,18 @@
+{
+  "name": "td-components",
+  "version": "1.0.0",
+  "authors": [
+    "yaoshining <ysnlvlqw@msn.com>"
+  ],
+  "description": "This package provides some angularjs plugins for td-frontend framework.",
+  "main": "./td-components.js",
+  "license": "MIT",
+  "homepage": "https://github.com/yaoshining/td-components/wiki",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
